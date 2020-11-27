@@ -1,2 +1,2 @@
-# chrome-extention-1
+# chrome-extension-1
 chrome extensions getting started
